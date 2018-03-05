@@ -1,0 +1,8 @@
+prefix=/home/anuragb/ros_prac/catkin_ws_p11/install
+
+Name: project_3
+Description: Description of project_3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anuragb/ros_prac/catkin_ws_p11/install/lib 
+Requires: rospy geometry_msgs nav_msgs roscpp std_msgs tf

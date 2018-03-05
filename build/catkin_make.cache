@@ -1,0 +1,2 @@
+project_3
+-DCATKIN_DEVEL_PREFIX=/home/anuragb/ros_prac/catkin_ws_p11/devel -DCMAKE_INSTALL_PREFIX=/home/anuragb/ros_prac/catkin_ws_p11/install -G Unix Makefiles
